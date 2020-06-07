@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Student helper app</string>
+
+
+    <string name="pisanjeBeleski">pisanje Beleski</string>
+    <string name="pisanjeStatistike">pisanje Statistike</string>
+    <string name="rasporedCasova">raspored Casova</string>
+
+
+    <string name="naziv_beleske">Naziv beleske</string>
+    <string name="zapis_beleske">Unesi text</string>
+
+    <string-array name="grupe_fakultet">
+        <item>Grupa</item>
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>105</item>
+        <item>107</item>
+        <item>1d1</item>
+        <item>1d2</item>
+        <item>1s1</item>
+        <item>1s2</item>
+        <item>1s3</item>
+        <item>1s4</item>
+        <item>201</item>
+        <item>202</item>
+        <item>203</item>
+        <item>204</item>
+        <item>210</item>
+        <item>211</item>
+        <item>2d1</item>
+        <item>2d2</item>
+        <item>2d3</item>
+        <item>2d4</item>
+        <item>2s1</item>
+        <item>2s2</item>
+        <item>301</item>
+        <item>302</item>
+        <item>303</item>
+        <item>304</item>
+        <item>305</item>
+        <item>305</item>
+        <item>307</item>
+        <item>308</item>
+        <item>309</item>
+        <item>310</item>
+        <item>311</item>
+        <item>312</item>
+        <item>313</item>
+        <item>3d1</item>
+        <item>3s1</item>
+        <item>3s2</item>
+        <item>401</item>
+        <item>402</item>
+        <item>403</item>
+        <item>410</item>
+        <item>4d1</item>
+    </string-array>
+
+    <string-array name="dani_fakultet">
+        <item>Dan</item>
+        <item>PON</item>
+        <item>UTO</item>
+        <item>SRE</item>
+        <item>\u010cET</item>
+        <item>PET</item>
+        <item>SUB</item>
+        <item>NED</item>
+    </string-array>
+</resources>
